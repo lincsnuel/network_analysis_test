@@ -1,0 +1,65 @@
+.parent
+{
+-fx-background-color: transparent;
+}
+
+.left_pane
+{
+-fx-background-color: #2C2B53;
+}
+
+.left_pane_top
+{
+-fx-background-color: #FA5E2E;
+}
+
+//F58121
+
+.bottom_pane
+{
+-fx-background-color: #A35616;
+}
+
+.main_buttons
+{
+-fx-background-color: transparent;
+-fx-background-radius: 0px;
+}
+
+.main_buttons: hover
+{
+-fx-background-color: transparent;
+-fx-background-radius: 0px;
+-fx-border-color: #A35616;
+-fx-border-width: 0px 0px 0px 4px;
+-fx-border-radius: 0px;
+}
+
+.bottom_pane_dark
+{
+-fx-background-color: #361C07;
+}
+
+.draw_button
+{
+-fx-background-color: #2C2B53;
+-fx-background-radius: 0px;
+}
+
+.draw_button: hover
+{
+-fx-background-color: #1D1C37;
+-fx-background-radius: 0px;
+-fx-border-color: transparent;
+-fx-border-width: 0px 0px 0px 4px;
+-fx-border-radius: 0px;
+}
+
+.draw_button: pressed
+{
+-fx-background-color: #0E0E1B;
+-fx-background-radius: 0px;
+-fx-border-color: transparent;
+-fx-border-width: 0px 0px 0px 0px;
+-fx-border-radius: 0px;
+}
